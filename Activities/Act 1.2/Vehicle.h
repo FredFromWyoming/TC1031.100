@@ -1,9 +1,13 @@
+#pragma once
+
 #include <string>
+
 using namespace std;
 
 class Vehicle {
-    protected:
+    public:
 
+    string type;
     string make;
     string model;
     int mileage;
@@ -16,11 +20,14 @@ class Vehicle {
 
     public:
 
+    Vehicle(string type,
+    string make,
+    string model,
+    int mileage,
+    int vin);
+
     string getMake();
     string getModel();
     int getMileage();
     int getVin();
-
-
-
 };
