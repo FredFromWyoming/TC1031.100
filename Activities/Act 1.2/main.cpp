@@ -1,6 +1,10 @@
 #include <iostream>
+#include "Buyer.h"
 #include "Groups.h"
 #include "Vehicle.h"
+#include <string>
+#include <vector>
+#include <iostream>
 
 using namespace std;
 
@@ -24,16 +28,16 @@ int printMenu(){
 
 int main(int argc, char const *argv[])
 {
-    Groups allSales = Groups();
+    Groups * allSales = new Groups();
 
     while (true){
         switch (printMenu())
         {
         case 1: // Crear una nueva venta
-            allSales.addSell();
+            allSales->addSell();
             break;
         case 2:
-            allSales.getSellsList();
+            allSales->getSellsList();
             break;
         case 3:
             int INE;
@@ -42,7 +46,7 @@ int main(int argc, char const *argv[])
             cout << "Porfavor proporciona el INE del usuario" << endl
             
             << "> ";
-            allSales.getVehiclesForPerson(INE);
+            allSales->getVehiclesForPerson(INE);
             break;
         case 4:
         {
@@ -59,7 +63,7 @@ int main(int argc, char const *argv[])
             
             << "> ";
             cin >> km;
-            allSales.getFilter(year, km);
+            allSales->getFilter(year, km);
             break;
         }
         
@@ -67,5 +71,7 @@ int main(int argc, char const *argv[])
             return 0;
         }
     }
+
+    delete &allSales;
     return 0;
 }

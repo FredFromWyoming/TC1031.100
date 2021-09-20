@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Buyer.cpp
+Buyer.h
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Buyer.h
+string
+-
+vector
+-
+Vehicle.h
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Vehicle.h
+
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Buyer.h
+string
+-
+vector
+-
+Vehicle.h
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Vehicle.h
+
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Groups.cpp
+Groups.h
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Groups.h
+string
+-
+vector
+-
+Buyer.h
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Buyer.h
+iostream
+-
+
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Groups.h
+string
+-
+vector
+-
+Buyer.h
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Buyer.h
+Vehicle.h
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Vehicle.h
+
+/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Vehicle.h
+string
+-
+

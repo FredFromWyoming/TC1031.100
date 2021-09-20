@@ -4,11 +4,15 @@
 #include "Vehicle.h"
 
 using namespace std;
-
+ 
 Buyer::Buyer(string name, string lastName, int FedID){
     Buyer::name = name;
     Buyer::lastName = lastName;
     Buyer::FedID = FedID;   
+    Buyer::ownedVehicles = vector<Vehicle>();
+}
+
+Buyer::Buyer(){ 
     Buyer::ownedVehicles = vector<Vehicle>();
 }
 

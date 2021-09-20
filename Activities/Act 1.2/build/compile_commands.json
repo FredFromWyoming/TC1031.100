@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/act.dir/main.cpp.o -c \"/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/main.cpp\"",
+  "file": "/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/main.cpp"
+},
+{
+  "directory": "/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/act.dir/Groups.cpp.o -c \"/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Groups.cpp\"",
+  "file": "/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Groups.cpp"
+},
+{
+  "directory": "/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/act.dir/Vehicle.cpp.o -c \"/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Vehicle.cpp\"",
+  "file": "/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Vehicle.cpp"
+},
+{
+  "directory": "/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10   -g -o CMakeFiles/act.dir/Buyer.cpp.o -c \"/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Buyer.cpp\"",
+  "file": "/media/yeetus/YeetusDrivus/uni/sem 3/algorimos y cosa/TC1031.100/Activities/Act 1.2/Buyer.cpp"
+}
+]
